@@ -80,6 +80,8 @@ graphics resources for creating presentations.
 * sjtu-vi-sjtuphoto.jpg 
 * sjtu-vi-vlogo.pdf 
 * sjtu-vi-zhlogo.pdf 
+* bilibili-logo.pdf 
+* bilibili-photo.jpg 
 
 ### Typeset documents
 
